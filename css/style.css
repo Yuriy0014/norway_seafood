@@ -17,3 +17,10 @@ body {
 	padding: 0 10px;
 	margin: 0 auto;
 }
+
+.header__top {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 27px;
+}
+
